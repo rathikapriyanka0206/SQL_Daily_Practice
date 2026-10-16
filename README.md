@@ -1,1 +1,1 @@
-# SQL_Daily_Practise
+# SQL_Daily_Practice
